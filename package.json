@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Daniel Choi",
 	"description": "A project from ffc backend",
+  "keywords": [ "ffc", "nodejs", "express" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
